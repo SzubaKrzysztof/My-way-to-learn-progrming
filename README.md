@@ -1,5 +1,5 @@
 # Path of young padawan
-All my history of learning coding
+My history of learning coding
 
 
 ## Books
