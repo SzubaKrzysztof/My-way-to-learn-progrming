@@ -5,7 +5,7 @@ My history of learning coding
 ## Books
 
 Type of education | Date started |Date finished | What I learned
-
+:-- | :--: | :--:
 [Java Head First](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide-ebook/dp/B009KCUX3S) | 07-2019 |  09-2019 | Basicks of Java in Theory. Didn't understoot all at first
 [The Nature of Code](https://natureofcode.com/book/) |  09-2019 | 11-2019 | Simplified Java language in practice with great explenation 
 
