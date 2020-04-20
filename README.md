@@ -11,9 +11,9 @@ Type of education | Date started |Date finished | What I learned
 
 ## Programming courses
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Java od podstaw do eksperta](https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/)| Duke | 4 weeks | 4-8 hours/week | twice a month | none
+Type of education | Date started |Date finished | What I learned
+:-- | :--: | :--: | :--:
+[Java od podstaw do eksperta](https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/)| 08-2019 | 10-2019 | Basicks of Coding, seting up environment for programming, understanding how Java works in INTELLIJ IDEA,  keyboard shortcuts 
 [The Coding Train on Youtube](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
 [Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 weeks | 6-10 hours/week | every week | Object Oriented Programming in Java
