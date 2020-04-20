@@ -13,6 +13,8 @@ Type of education | Date started |Date finished | What I've learned
 
 Type of education | Where | Date started |Date finished | What I've learned
 :--- | :--: | :--: | :--: | :--:
+[Freecidecamp.org](https://www.freecodecamp.org/)| online | 07-2019 | 08-2019 | CSS and HTML
+[Solo Learn app and site](https://www.sololearn.com/Profile/14572445#)| app android| 08-2019 | Now | Java, PHP, SQL only basicks concepts 
 [Java od podstaw do eksperta](https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/) | Udemy | 08-2019 | 10-2019 | Basicks of Coding, seting up environment for programming, understanding how Java works in INTELLIJ IDEA,  keyboard shortcuts 
 [The Coding Train on Youtube](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2)| Duke | 4 weeks | 4-8 hours/week | twice a month | Java Programming: Solving Problems with Software
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 weeks | 4-6 hours/week | every week | Java Programming: Arrays, Lists, and Structured Data
