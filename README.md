@@ -4,7 +4,7 @@ My history of learning coding
 
 ## Books
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+| type | Date started |Date finished | What I learned
 :-- | :--: | :--: | :--: | :--: | :--:
 [Java Head First](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide-ebook/dp/B009KCUX3S) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [The Nature of Code](https://natureofcode.com/book/) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
