@@ -4,9 +4,9 @@ My history of learning coding
 ## My work so far
 Title | Language | What concepts
 :-- | :--: | :--:
-Processing | Simplified Java | Object oriented programming, loops, 
-Java| Java | Polimorf
-First application Java | Java, SQlite, JavaFX | Connecting to database, CRUD operations, animations 
+[Processing](https://youtu.be/SCnKJ8gOhns)  | Simplified Java | Object oriented programming, loops, 
+[Java](https://youtu.be/WszcqbLQHjo)| Java | Multithreding, Oveloading, Overriding, Encapsulations 
+[Java application](https://youtu.be/S2IozY4VTuI) | Java, SQlite, JavaFX | Connecting to database, CRUD operations, animations 
 
 
 ## Books
