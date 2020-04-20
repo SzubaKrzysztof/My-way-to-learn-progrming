@@ -4,9 +4,9 @@ My history of learning coding
 ## My work so far
 Title | Language | What concepts of programming I've learned | Git repository
 :-- | :--: | :--: |:--:
-[Processing](https://youtu.be/SCnKJ8gOhns)  | Simplified Java | Object Oriented Programming, Loops. | [Git](https://github.com/SzubaKrzysztof/Learning_Processing)
-[Java](https://youtu.be/WszcqbLQHjo)| Java | Multithreding, Oveloading, Overriding, Encapsulations. | [Git](https://github.com/SzubaKrzysztof/Learnin_Java)
-[Java application](https://youtu.be/S2IozY4VTuI) | Java, SQlite, JavaFX | Connecting to database, CRUD operations, animations. | [Git](https://github.com/SzubaKrzysztof/Project_Backery_Crud) 
+[Processing Video](https://youtu.be/SCnKJ8gOhns)  | Simplified Java | Object Oriented Programming, Loops. | [Git](https://github.com/SzubaKrzysztof/Learning_Processing)
+[Java Video](https://youtu.be/WszcqbLQHjo)| Java | Multithreding, Oveloading, Overriding, Encapsulations. | [Git](https://github.com/SzubaKrzysztof/Learnin_Java)
+[Java application Video](https://youtu.be/S2IozY4VTuI) | Java, SQlite, JavaFX | Connecting to database, CRUD operations, Animations. | [Git](https://github.com/SzubaKrzysztof/Project_Backery_Crud) 
 
 
 ## Books
